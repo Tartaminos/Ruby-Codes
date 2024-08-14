@@ -3,6 +3,7 @@
 def printing()
     arrays = StudyArrays.new
     arrays.print_all()
+    # more about arrays and their logic insid .C files
 end
 
 class StudyArrays
